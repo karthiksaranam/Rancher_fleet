@@ -7,3 +7,8 @@ c=a+b
 #This is division
 
 c-a/b
+
+#this is %%%%
+
+c=a%b
+
